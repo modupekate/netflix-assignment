@@ -1,0 +1,65 @@
+@media screen and (max-width: 800px) {
+    .netimg{font-size: 15px;}
+.nettv {
+    flex-wrap: wrap;
+    text-align:center ;
+
+}
+#n1 {
+    font-size:20px ;
+}
+.netimg {
+    height: 500px;
+}
+#text {
+    font-size: 12px;
+    flex-wrap: wrap;
+    margin-left: 150px;
+    padding-top: 0px;
+}
+.net {
+    flex-wrap: wrap;
+}
+.stranger {
+    flex-wrap: wrap;
+}
+#text2 {
+    font-size: 12px;
+    margin-left: 50px;
+}
+.kids 
+{
+    flex-wrap: wrap;
+    font-size: 20px;
+}
+.links {
+    flex-wrap: wrap;
+    padding: 40px;
+}
+.questions li {
+    font-size: 1rem;
+    padding: 15px;
+    margin: 5px;
+    width: 70%;
+    justify-content: right;
+}
+}
+@media screen and (max-width: 800px) {
+    .signin{flex-wrap: wrap;
+        justify-content: space-between;
+        width: 500px;
+
+    }
+    .signinbox {
+        flex-wrap: wrap;
+        justify-content: space-between;
+        width: 300px;
+        left: 30px;
+    
+    }
+    .signinbox #p1, #p2, #p3 {
+width: 350px;
+height: 3rem;
+padding: 8px;
+    }
+}
