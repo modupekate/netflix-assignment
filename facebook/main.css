@@ -1,0 +1,77 @@
+body{background-color:rgba(143, 143, 146, 0.18)
+}
+@media screen and (max-width: 900px;) {
+    body{
+        background-color:blue ;
+        color: aliceblue;
+        display: block;
+    }
+}
+@media screen and (max-width: 300px) {
+    body{
+        background-color: rgb(221, 224, 224);
+        color: aliceblue;
+        display: block;
+    }
+}
+    
+
+
+.p{
+    background-color:white;
+    box-sizing: border-box;
+    padding: .1rem;
+    border: solid white 1rem;
+    border-radius: .5rem;
+    width: 30rem;
+    
+}
+#p1{
+    height: 4rem;
+    border-radius: .5rem;
+    box-sizing: border-box;
+    border: ;
+    width: ;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+
+}
+#p2{
+    height: 4rem;
+    border-radius: .5rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    box-sizing: border-box;
+    
+}
+#p3{
+    height: 4rem;
+    border-radius: .5rem; 
+    box-sizing: border-box;
+    width: 26rem;
+    background-color: rgba(34, 117, 212);
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
+
+
+#p4{
+    text-align: center;
+
+}
+
+#p5{
+    border: white;
+    color: white;
+    background-color:rgb(22, 183, 121) ;
+    margin: auto;
+    width: 290;
+    display: block;
+    border-radius: 4px;
+    padding: 11px;
+    font-weight: bold;
+    cursor: pointer;
+}
+.p6{
+text-align: center;
+}
